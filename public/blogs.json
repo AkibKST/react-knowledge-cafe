@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/gDg8fnY/1.jpg",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "author_img": "https://i.ibb.co/QQ0zRGV/boy1.png",
+      "posted_date": "2023-09-14",
+      "reading_time": 8,
+      "hashtags": ["classic", "fiction", "1920s"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/wwRxZrN/2.png",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "author_img": "https://i.ibb.co/xmWXV9Z/boy2.jpg",
+      "posted_date": "2023-09-13",
+      "reading_time": 12,
+      "hashtags": ["classic", "novel", "racism"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/0CvBWPK/3.png",
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "author_img": "https://i.ibb.co/ky1mtmb/girl1.jpg",
+      "posted_date": "2023-09-12",
+      "reading_time": 15,
+      "hashtags": ["comingofage", "fiction", "teenagers"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/PQKYykF/4.jpg",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "author_img": "https://i.ibb.co/jyzqvFc/girl2.jpg",
+      "posted_date": "2023-09-11",
+      "reading_time": 9,
+      "hashtags": ["classic", "romance", "regency"]
+    }
+  ]
+  
